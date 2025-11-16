@@ -90,11 +90,7 @@ Calculation
 
 
 
-Frequency Deviation Practical = 
 
-Modulation Index Practical	= 
-
-Modulation Index Theoretical	=
 
 
 
