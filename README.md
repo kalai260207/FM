@@ -66,26 +66,26 @@ MODEL GRAPH:
 
 Program
 
-<img width="441" height="335" alt="image" src="https://github.com/user-attachments/assets/9489fd75-08d7-4f56-a045-8ae5a450cac8" />
+<img width="703" height="386" alt="image" src="https://github.com/user-attachments/assets/3299242d-62e5-4128-af54-ac52aa9ddbb5" />
 
 
 Output Waveform
 
-<img width="1061" height="584" alt="image" src="https://github.com/user-attachments/assets/af49f076-af35-48dd-a17f-7955f8a548dc" />
+<img width="761" height="577" alt="image" src="https://github.com/user-attachments/assets/919b92dc-63ff-430f-9a4f-99fe20449f96" />
 
 
 
 
 Tabulation
 
-![WhatsApp Image 2025-09-28 at 19 04 46_a5cdd386](https://github.com/user-attachments/assets/baa7f2de-2177-44b2-b7dc-bb0ad102e26c)
+<img width="1084" height="784" alt="image" src="https://github.com/user-attachments/assets/fe48d6ee-baf4-47ec-b0cc-661a18bfc56c" />
 
 
 
 
 Calculation
 
-![WhatsApp Image 2025-10-08 at 14 11 21_34deb62a](https://github.com/user-attachments/assets/3a8b82e2-9cc5-4a89-8eed-7cda573d2618)
+<img width="1381" height="776" alt="image" src="https://github.com/user-attachments/assets/00ffb84a-b887-4bab-90ad-b13c6df5828b" />
 
 
 
